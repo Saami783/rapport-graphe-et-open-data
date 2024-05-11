@@ -1,0 +1,10 @@
+Fontainebleau - Nanterre : 55
+Fontainebleau - Poissy : 85
+Fontainebleau - Mantes-la-Jolie : 75
+Fontainebleau - Evreux : 44
+Nanterre - Poissy : 7
+Nanterre - Mantes-la-Jolie : 52
+Nanterre - Evreux : 74
+Poissy - Mantes-la-Jolie : 65
+Poissy - Evreux : 71
+Mantes-la-Jolie - Evreux : 23

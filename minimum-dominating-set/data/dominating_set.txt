@@ -1,0 +1,1 @@
+Minimum Dominating Set: {2, 5, 9, 12, 17, 20, 24}\nSize of the Dominating Set: 7\n
